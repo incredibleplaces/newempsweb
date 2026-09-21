@@ -1,0 +1,6 @@
+{
+  "name": "EMPS — Electro Mechanical Power Solutions",
+  "description": "Turnkey electrical contracting, LT/HT panel manufacturing, transformer & DG set supply and installation across Eastern India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
